@@ -36,7 +36,7 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-#twitter: mytwitter
+twitter: prontraorg
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,11 +51,11 @@ permalink: /:title/
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: dragoshotto@gmail.com
+email: prontra.com@gmail.com
 
 authors:
     johndoe:
-        name: DC Otto
+        name: DCO
         #bio: A Man who travels the world eating noodles
         external-image: false
         #picture: assets/images/profile.jpg
